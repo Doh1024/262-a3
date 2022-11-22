@@ -14,6 +14,9 @@ module.exports = {
       xl: '1280px',
       '2xl': '1536px',
     },
+    maxWidth:{
+      'avg':'40ch'
+    },
     supports: {},
     colors: ({ colors }) => ({
       inherit: colors.inherit,
